@@ -1,0 +1,5 @@
+Kalman-and-Bayesian-Filters-in-Python/
+kf_book/
+.ipynb_checkpoints/
+__pycache__/
+*.png
